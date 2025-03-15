@@ -1,0 +1,20 @@
+{
+  "name": "licanda_midterm_exam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peteandree/LICANDA_midterm_exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peteandree/LICANDA_midterm_exam/issues"
+  },
+  "homepage": "https://github.com/peteandree/LICANDA_midterm_exam#readme",
+  "description": ""
+}
